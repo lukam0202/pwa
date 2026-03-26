@@ -54,4 +54,4 @@ $link_text = "Klikni za YouTube!"
     </body>
 </html>
 
-<!-- Naziv datoteke: vjezba1.php -->
+<!-- Naziv datoteke: vjezba2-1.php -->
